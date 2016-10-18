@@ -10,6 +10,7 @@ public class test {
 			+ time.split(":")[0] + time.split(":")[1] + time.split(":")[2];
 	int TimeStamp = Integer.parseInt(ts);
 	System.out.println(TimeStamp);
+	System.out.println("test");
 	}
 	
 }
